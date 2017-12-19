@@ -1,0 +1,7 @@
+c:\users\tenshi\Source\Repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\tenshi\Source\Repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\tenshi\Source\Repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\tenshi\Source\Repos\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\tenshi\Source\Repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\tenshi\Source\Repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\tenshi\Source\Repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
